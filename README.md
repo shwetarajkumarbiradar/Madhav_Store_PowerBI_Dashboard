@@ -1,4 +1,5 @@
 # Madhav_Store_PowerBI_Dashboard
+
 Professional Power Bi Dashboard
 
 Complete Power BI project using retail store sales data
@@ -12,18 +13,26 @@ This project presents an interactive Power BI dashboard to analyze e-commerce sa
 📊 Key Metrics (KPIs)
 
 Total Sales: 438K
+
 Total Profit: 37K
+
 Quantity Sold: 5,615
+
 Top Category: Clothing (63%)
+
 Top State: Maharashtra
+
 Most Used Payment Mode: Cash on Delivery (44%)
+
 <img width="1440" height="900" alt="Spotify Listening history.png" src="https://github.com/shwetarajkumarbiradar/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav_Store__Dashboard.PNG"/>
 
 
 🛠 Tools & Technologies Used
 
 Power BI – Dashboard creation & visualization
+
 Excel / CSV – Data source
+
 Data Cleaning & Transformation – Power Query
 
 
