@@ -17,7 +17,7 @@ Quantity Sold: 5,615
 Top Category: Clothing (63%)
 Top State: Maharashtra
 Most Used Payment Mode: Cash on Delivery (44%)
-
+<img width="1440" height="900" alt="Spotify Listening history.png" src="https://github.com/shwetarajkumarbiradar/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav_Store__Dashboard.PNG"/>
 
 
 🛠 Tools & Technologies Used
